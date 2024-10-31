@@ -1,0 +1,13 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+#toplevel_page_Servitor_Statistics-admin-class-servitor-statistics-admin .wp-menu-image.dashicons-before img {
+    width: 16px;
+}
+
+.servitor .settings-form input              { width: 100%; }
+
+.servitor .how-to                           { margin-left: 40px; }
+.servitor .how-to li                        { list-style-type: circle; }
